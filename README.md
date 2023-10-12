@@ -12,5 +12,38 @@
 在项目中承担员工，菜品的分页查询，使用MyBatis的插件PageHelper，解决分页查询功能
 在项目中承担后端访问Redis服务的任务，配置Redis数据源，使用Spring Data Redis中的RedisTemplate类来简化 Redis 操作，数据缓存在Redis中，缓解MySQL高频访问。
 使用SpringSecurity、JWT认证，完成用户认证授权开发
+小程序：
+（1）首页：
+
+
+订单页面：
+
+
+（2）支付页面
+
+（3）订单详情
+
+（4）催单(https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/%E5%82%AC%E5%8D%95.png)
+
+
+管理端
+登录：
+
+首页：
+
+
+数据统计
+
+
+
+订单管理：
+
+
+菜品管理：
+
+
+分类管理：
+
+员工管理：
 
 
