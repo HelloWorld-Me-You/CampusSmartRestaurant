@@ -15,7 +15,7 @@
 小程序：
 
 ![（1）首页](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/管理端登录界面png)
-
+（2）提交订单
 
 ![（2）提交订单](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/提交订单.png)
 
