@@ -13,11 +13,11 @@
 在项目中承担后端访问Redis服务的任务，配置Redis数据源，使用Spring Data Redis中的RedisTemplate类来简化 Redis 操作，数据缓存在Redis中，缓解MySQL高频访问。
 使用SpringSecurity、JWT认证，完成用户认证授权开发
 小程序：
-（1）首页：
+
+![（1）首页](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/管理端登录界面png)
 
 
-订单页面：
-
+![（2）提交订单](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/提交订单.png)
 
 （2）支付页面
 
