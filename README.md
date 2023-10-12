@@ -25,29 +25,48 @@
 
 （2）支付页面
 
+![成功支付](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/成功支付.png)
+
+
 （3）订单详情
 
-（4）催单(https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/%E5%82%AC%E5%8D%95.png)
+![订单详情](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/订单详情.png)
 
+（4）催单
+
+![催单](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/催单.png)
 
 管理端
 登录：
 
+![管理端登录界面](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/管理端登录界面.png)
+
 首页：
+
+![工作台](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/工作台.png)
 
 
 数据统计
 
+![数据统计](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/数据统计.png)
 
 
 订单管理：
 
+![订单管理](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/订单管理.png)
+
 
 菜品管理：
+
+![菜品管理](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/菜品管理.png)
 
 
 分类管理：
 
+![分类管理](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/分类管理.png)
+
 员工管理：
+
+![员工管理](https://github.com/HelloWorld-Me-You/CampusSmartRestaurant/blob/master/员工管理.png)
 
 
