@@ -1,0 +1,66 @@
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: dev
+  main:
+    allow-circular-references: true
+  datasource:
+    druid:
+      driver-class-name: ${smart.restaurant.datasource.driver-class-name}
+      url: jdbc:mysql://${smart.restaurant.datasource.host}:${smart.restaurant.datasource.port}/${smart.restaurant.datasource.database}?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+      username: ${smart.restaurant.datasource.username}
+      password: ${smart.restaurant.datasource.password}
+  redis:
+    host: ${smart.restaurant.redis.host}
+    port: ${smart.restaurant.redis.port}
+    password: ${smart.restaurant.redis.password}
+    database: ${smart.restaurant.redis.database}
+
+mybatis:
+  #mapper配置文件
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.smart.restaurant.entity
+  configuration:
+    #开启驼峰命名
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    com:
+      sky:
+        mapper: debug
+        service: info
+        controller: info
+
+sky:
+  jwt:
+    # 设置jwt签名加密时使用的秘钥
+    admin-secret-key: smartrestaurant
+    # 设置jwt过期时间
+    admin-ttl: 7200000
+    # 设置前端传递过来的令牌名称
+    admin-token-name: token
+    user-secret-key: smartrestaurant
+    user-ttl: 7200000
+    user-token-name: authentication
+  alioss:
+    endpoint: ${smart.restaurant.alioss.endpoint}
+    access-key-id: ${smart.restaurant.alioss.access-key-id}
+    access-key-secret: ${smart.restaurant.alioss.access-key-secret}
+    bucket-name: ${smart.restaurant.alioss.bucket-name}
+  wechat:
+    appid: ${smart.restaurant.wechat.appid}
+    secret: ${smart.restaurant.wechat.secret}
+    mchid: ${smart.restaurant.wechat.mchid}
+    mchSerialNo: ${smart.restaurant.wechat.mchSerialNo}
+    privateKeyFilePath: ${smart.restaurant.wechat.privateKeyFilePath}
+    apiV3Key: ${smart.restaurant.wechat.apiV3Key}
+    weChatPayCertFilePath: ${smart.restaurant.wechat.weChatPayCertFilePath}
+    notifyUrl: ${smart.restaurant.wechat.notifyUrl}
+    refundNotifyUrl: ${smart.restaurant.wechat.refundNotifyUrl}
+  shop:
+    address: 北京市海淀区上地十街10号
+  baidu:
+    ak: your-ak

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bedabe2-7065-46d5-911b-3af4d69d8e35" name="Changes" comment="苍穹外卖项目初始代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven\apache-maven-3.9.4-bin\apache-maven-3.9.4\maven_repository" />
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.9.4-bin/apache-maven-3.9.4" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.9.4-bin\apache-maven-3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2WBnidxZfl0FovZBqZXiinfED48" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/yun/Desktop/Campus -Smart- Restaurant",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "0d903826f2cfd9772cf3bc867d21fa3a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yun\Desktop\Campus -Smart- Restaurant\smart-restaurant-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SkyApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Campus- -Smart- Restaurant" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Campus- -Smart- Restaurant" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="smart-restaurant-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.restaurant.SkyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="smart-restaurant-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.SkyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bedabe2-7065-46d5-911b-3af4d69d8e35" name="Changes" comment="" />
+      <created>1693465400495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693465400495</updated>
+      <workItem from="1696214970858" duration="986000" />
+      <workItem from="1696225365616" duration="6000" />
+      <workItem from="1696225612546" duration="3116000" />
+      <workItem from="1696237602579" duration="1121000" />
+      <workItem from="1696245011421" duration="1035000" />
+      <workItem from="1696247915215" duration="15000" />
+      <workItem from="1696247943871" duration="1573000" />
+      <workItem from="1696255248719" duration="1242000" />
+      <workItem from="1696342901850" duration="74000" />
+      <workItem from="1696600593519" duration="2525000" />
+      <workItem from="1696641502758" duration="1214000" />
+      <workItem from="1696687073562" duration="642000" />
+      <workItem from="1696742183348" duration="718000" />
+      <workItem from="1696835199581" duration="909000" />
+      <workItem from="1696852978327" duration="633000" />
+      <workItem from="1696928717381" duration="2704000" />
+      <workItem from="1696936356713" duration="285000" />
+      <workItem from="1696937280034" duration="7661000" />
+      <workItem from="1696991256978" duration="620000" />
+      <workItem from="1696991963793" duration="673000" />
+      <workItem from="1697005512676" duration="2627000" />
+      <workItem from="1697077944531" duration="646000" />
+      <workItem from="1697082966276" duration="715000" />
+      <workItem from="1697085741840" duration="759000" />
+      <workItem from="1697086554082" duration="419000" />
+      <workItem from="1697086989036" duration="773000" />
+    </task>
+    <task id="LOCAL-00001" summary="苍穹外卖项目初始代码">
+      <option name="closed" value="true" />
+      <created>1696225934536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696225934536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="苍穹外卖项目初始代码" />
+    <MESSAGE value="校园智慧餐厅" />
+    <option name="LAST_COMMIT_MESSAGE" value="校园智慧餐厅" />
+  </component>
+</project>

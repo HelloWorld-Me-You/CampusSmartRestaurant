@@ -1,0 +1,21 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: campus-smart-restaurant
+    username: root
+    password: root
+  alioss:
+    endpoint:
+    access-key-id:
+    access-key-secret:
+    bucket-name:
+  redis:
+    host:
+    port:
+    password:
+    database:
+  wechat:
+    appid:
+    secret:
